@@ -1,0 +1,7 @@
+127.0.0.1   localhost
+127.0.0.1   vagrant.vm  vagrant
+
+192.168.56.10 controller
+192.168.56.11 node1
+192.168.56.12 node2
+192.168.56.10 node3
