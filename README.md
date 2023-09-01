@@ -14,7 +14,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project encompasses the end-to-end process of setting up a development environment locally. The key stages of this project include provisioning four linux virtual machines using Vagrant, using ansible and ansible playbook to automate the configuration of the VMs, containerize a simple Flask web application with docker, using docker-swarm to scale and orchestrate the web app on the VMs.
+This project encompasses the end-to-end process of setting up a local development environment. The key stages of this project include:
+* Virtual Machine Provisioning: utilized Vagrant to provision four Linux virtual machines, serving as the foundation of the development environment
+* Automation with Ansible: Ansible and Ansible Playbooks were employed to automate the configuration and setup of these virtual machines.
+* Containerization with Docker: containerize a simple Flask web application with docker 
+* Scaling and Orchestration with Docker Swarm: To scale and orchestrate our web application across the virtual machines.
 
 
 
