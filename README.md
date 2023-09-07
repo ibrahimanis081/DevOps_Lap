@@ -6,7 +6,7 @@
   
    <h3 align="center">DevOps Lab Project</h3>
 
-[![selenium-web-scraping.png](https://i.postimg.cc/fLV59Lq3/selenium-web-scraping.png)](https://postimg.cc/BLGxWq0s)
+
 </div>
 
 
@@ -30,6 +30,8 @@ This project encompasses the end-to-end process of setting up a local developmen
 <br/>
 
 * ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
+* ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 * ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
